@@ -7,3 +7,4 @@ while True:
         break;
     except ValueError:
         print ("You entered a character, clown.")
+        #hi
